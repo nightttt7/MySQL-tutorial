@@ -21,7 +21,7 @@
 4. 初始化MySQL
     1. 命令提示符中输入以下语句  
     ```
-    mysql -uroot -p #登录,使用刚才给出的初始密码
+    mysql -uroot -p初始密码 #登录,使用刚才给出的初始密码
     set password=password('新密码'); #修改密码
     show variables like '%char%'; #查看默认编码
     set global character_set_database='utf8'; # 如果只是临时更改默认编码为utf-8
