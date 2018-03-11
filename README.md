@@ -13,7 +13,7 @@
     2. [插入](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%A2%9E%E5%88%A0%E6%9F%A5%E6%94%B9.md#%E6%8F%92%E5%85%A5)
     3. [更新](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%A2%9E%E5%88%A0%E6%9F%A5%E6%94%B9.md#%E6%9B%B4%E6%96%B0)
     4. [简单检索](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%A2%9E%E5%88%A0%E6%9F%A5%E6%94%B9.md#%E7%AE%80%E5%8D%95%E6%A3%80%E7%B4%A2)
-    5. [删除](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%A2%9E%E5%88%A0%E6%9F%A5%E6%94%B9.md#%E5%88%A0%E9%99%A4)
+    5. [删除](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%A2%9E%E5%88%A0%E6%9F%A5%E6%94%B9.md#%E5%88%A0%E9%99%A4)
     6. [示例代码](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%A2%9E%E5%88%A0%E6%9F%A5%E6%94%B9.md#%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81)
   
 4. [过滤](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E8%BF%87%E6%BB%A4.md)
