@@ -2,6 +2,15 @@
 本教程用于:
 1. 入门学习
 2. 快速查询
+- 初稿完成于2018/3/13 by [nightttt7](https://github.com/nightttt7) and [lotus3333](https://github.com/lotus3333)
+
+# todo
+1. 完善 游标
+2. 完善 事务
+3. 加入 触发器
+4. 加入 函数
+5. 加入 引擎
+6. 加入 数据库设置与安全
 
 # 目录
 1. [windows下的MySQL安装](https://github.com/nightttt7/MySQL-tutorial/blob/master/windows%E4%B8%8B%E7%9A%84MySQL%E5%AE%89%E8%A3%85.md)
