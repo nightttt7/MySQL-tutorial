@@ -1,3 +1,5 @@
+# linux下的MySQL安装
+
 *以CentOS7为例*
 
 1. [下载MYSQL源安装包](https://dev.mysql.com/downloads/repo/yum/),在这个页面里获取下载地址  

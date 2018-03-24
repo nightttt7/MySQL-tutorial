@@ -1,3 +1,4 @@
+# windows下的MySQL安装
 1. 下载MySQL:  
 [下载地址](https://dev.mysql.com/downloads/mysql/) -> Generally Available (GA) Releases -> Microsoft Windows -> 32-bit/64-bit(选择对应的32位/64位 windows) -> ZIP Archive -> Download  
 ![如何下载](https://raw.githubusercontent.com/nightttt7/MySQL-tutorial/master/imgs/1.png)
