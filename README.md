@@ -24,7 +24,7 @@
     4. [简单检索](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%A2%9E%E5%88%A0%E6%9F%A5%E6%94%B9.md#%E7%AE%80%E5%8D%95%E6%A3%80%E7%B4%A2)
     5. [删除](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%A2%9E%E5%88%A0%E6%9F%A5%E6%94%B9.md#%E5%88%A0%E9%99%A4)
     6. [示例代码](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%A2%9E%E5%88%A0%E6%9F%A5%E6%94%B9.md#%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81)
-  
+
 4. [过滤](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E8%BF%87%E6%BB%A4.md)
     1. [WHERE 单一条件过滤](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E8%BF%87%E6%BB%A4.md#where-%E5%8D%95%E4%B8%80%E6%9D%A1%E4%BB%B6%E8%BF%87%E6%BB%A4)
     2. [WHERE 多子句过滤](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E8%BF%87%E6%BB%A4.md#where-%E5%A4%9A%E5%AD%90%E5%8F%A5%E8%BF%87%E6%BB%A4)
@@ -36,7 +36,7 @@
     3. [汇总数据](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%2C%E6%B1%87%E6%80%BB%2C%E5%88%86%E7%BB%84.md#%E6%B1%87%E6%80%BB%E6%95%B0%E6%8D%AE)
     4. [数据分组](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%2C%E6%B1%87%E6%80%BB%2C%E5%88%86%E7%BB%84.md#%E6%95%B0%E6%8D%AE%E5%88%86%E7%BB%84%E9%80%82%E7%94%A8%E4%BA%8E%E5%A4%9A%E5%88%97%E6%95%B0%E6%8D%AE)
     5. [select子句顺序](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%2C%E6%B1%87%E6%80%BB%2C%E5%88%86%E7%BB%84.md#select%E5%AD%90%E5%8F%A5%E9%A1%BA%E5%BA%8F)
-    
+
 6. [子查询,组合查询,联结](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%AD%90%E6%9F%A5%E8%AF%A2%2C%E7%BB%84%E5%90%88%E6%9F%A5%E8%AF%A2%2C%E8%81%94%E7%BB%93.md)
     1. [子查询](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%AD%90%E6%9F%A5%E8%AF%A2%2C%E7%BB%84%E5%90%88%E6%9F%A5%E8%AF%A2%2C%E8%81%94%E7%BB%93.md#%E5%AD%90%E6%9F%A5%E8%AF%A2)
     2. [联结](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%AD%90%E6%9F%A5%E8%AF%A2%2C%E7%BB%84%E5%90%88%E6%9F%A5%E8%AF%A2%2C%E8%81%94%E7%BB%93.md#%E8%81%94%E7%BB%93)
