@@ -1,4 +1,4 @@
-# MySQL简明教程
+# MySQL简明教程/速查
 本教程用于:
 1. 入门学习
 2. 快速查询
@@ -6,13 +6,16 @@
 
 # todo
 1. 完善 游标
-2. 完善 事务
-3. 加入 触发器
-4. 加入 函数
-5. 加入 引擎
-6. 加入 数据库设置与安全
+2. 触发器
+3. 函数
+4. 引擎
+5. 数据库设置与安全
+6. 范式
+7. 更多的实战
 
 # 目录
+0. [合并教程](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%90%88%E5%B9%B6%E6%95%99%E7%A8%8B.md)
+
 1. [windows下的MySQL安装](https://github.com/nightttt7/MySQL-tutorial/blob/master/windows%E4%B8%8B%E7%9A%84MySQL%E5%AE%89%E8%A3%85.md)
 
 2. [linux下的MySQL安装](https://github.com/nightttt7/MySQL-tutorial/blob/master/linux%E4%B8%8B%E7%9A%84MySQL%E5%AE%89%E8%A3%85.md)
@@ -54,6 +57,15 @@
 
 9. [事务](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E4%BA%8B%E5%8A%A1.md)
 
+10. [数据类型](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 
+11. [文本文档的导入导出](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3%E7%9A%84%E5%AF%BC%E5%85%A5%E5%AF%BC%E5%87%BA.md)
 
+12. [批处理](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E6%89%B9%E5%A4%84%E7%90%86.md)
 
+13. [范式 尚未完成](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E8%8C%83%E5%BC%8F.md)
+
+14. [数据库安全与设置 尚未完成](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E5%85%A8%E4%B8%8E%E8%AE%BE%E7%BD%AE.md)
+
+# 实战系列
+1. [实战1](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%AE%9E%E6%88%981.md)
