@@ -63,9 +63,9 @@
 
 12. [批处理](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E6%89%B9%E5%A4%84%E7%90%86.md)
 
-13. [范式 尚未完成](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E8%8C%83%E5%BC%8F.md)
+13. [范式](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E8%8C%83%E5%BC%8F.md)
 
-14. [数据库安全与设置 尚未完成](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E5%85%A8%E4%B8%8E%E8%AE%BE%E7%BD%AE.md)
+14. [数据库安全与设置](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E5%85%A8%E4%B8%8E%E8%AE%BE%E7%BD%AE.md)
 
 # 实战系列
 1. [实战1](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%AE%9E%E6%88%981.md)
