@@ -14,7 +14,7 @@
 7. 更多的实战
 
 # 目录
-0. [合并教程](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%90%88%E5%B9%B6%E6%95%99%E7%A8%8B.md)
+- [合并教程](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%90%88%E5%B9%B6%E6%95%99%E7%A8%8B.md)
 
 1. [windows下的MySQL安装](https://github.com/nightttt7/MySQL-tutorial/blob/master/windows%E4%B8%8B%E7%9A%84MySQL%E5%AE%89%E8%A3%85.md)
 
@@ -68,4 +68,5 @@
 14. [数据库安全与设置](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E5%85%A8%E4%B8%8E%E8%AE%BE%E7%BD%AE.md)
 
 # 实战系列
+
 1. [实战1](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%AE%9E%E6%88%981.md)
