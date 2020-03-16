@@ -33,10 +33,17 @@ set password for 'root'@'localhost'='password';('新密码包含大小写数字'
 ```
 
 6. 配置默认编码为utf8,修改/etc/my.cnf配置文件，在[mysqld]下添加编码配置，如下所示：
+- attention! 完成编码配置后再创建数据库
+
 ```
+[client]
+default-character-set = utf8mb4
+[mysql]
+default-character-set = utf8mb4
 [mysqld]
-    character_set_server=utf8
-    init_connect='SET NAMES utf8'
+character-set-client-handshake = FALSE
+character-set-server = utf8mb4
+collation-server = utf8mb4_unicode_ci
 ```
 
 7. 文件路径

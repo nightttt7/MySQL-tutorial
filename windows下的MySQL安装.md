@@ -21,6 +21,7 @@
 
 4. 初始化MySQL
     1. 命令提示符中输入以下语句  
+
     ```
     mysql -uroot -p初始密码 #登录,使用刚才给出的初始密码
     set password=password('新密码'); #修改密码
@@ -29,12 +30,21 @@
     exit #退出mysql 
     ```
     2. 更改默认编码,在mysql目录下添加my.ini文件,文件内容如下:
+
+    - attention! 完成编码配置后再创建数据库
+    
     ```
-    [mysqld]
-    character-set-server = utf8
     [client]
-    default-character-set = utf8
+    default-character-set = utf8mb4
+    [mysql]
+    default-character-set = utf8mb4
+    [mysqld]
+    character-set-client-handshake = FALSE
+    character-set-server = utf8mb4
+    collation-server = utf8mb4_unicode_ci
     ```
+
+
     3. 命令提示符中输入以下语句
     ```
     net stop mysql #关闭服务
