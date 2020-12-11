@@ -70,3 +70,11 @@
 # 实战系列
 
 1. [实战1](https://github.com/nightttt7/MySQL-tutorial/blob/master/%E5%AE%9E%E6%88%981.md)
+
+# SQL实战题目资源
+
+1. [TestDome](https://www.testdome.com/questions?visibility=3&skillId=17)
+
+2. [LeetCode](https://leetcode.com/problemset/database/)
+
+
